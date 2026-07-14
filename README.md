@@ -26,7 +26,7 @@
 
 ### 2026 年 7 月 14 号添加
 
-#### 中国开发者 - [Github](https://github.com/risccfoxn)
+#### risccfoxn - [Github](https://github.com/risccfoxn)
 * :white_check_mark: [nof1.ai Trading Bot (Alpha Arena)](https://github.com/alphaarenanof1ai/nof1ai-alpha-arena)：本地运行的开源 AI 自动交易系统，结合实时市场信号与深度强化学习，在 Hyperliquid 上执行加密货币交易
 
 #### dhr2333(温州) - [Github](https://github.com/dhr2333/Beancount-Trans)
