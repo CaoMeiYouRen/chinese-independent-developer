@@ -25,6 +25,9 @@
 ## 3. 项目列表
 ### 2026 年 7 月 21 号添加
 
+#### fatwang2 - [Github](https://github.com/fatwang2)
+* :white_check_mark: [Pulse](https://www.pulseticker.app/)：macOS 原生菜单栏行情工具，一眼查看美股、港股、A 股、加密货币、指数和 ETF，支持自选与持仓盈亏，免费开源 - [查看仓库](https://github.com/fatwang2/Pulse)
+
 #### MarthaHuang(北京) - [Github](https://github.com/Amybiubiu)
 * :white_check_mark: [芦苇-发现好内容](https://apps.apple.com/cn/app/%E8%8A%A6%E8%8B%87-%E5%8F%91%E7%8E%B0%E5%A5%BD%E5%86%85%E5%AE%B9/id6756805406)：探索优质信息源，连接 RSS 订阅与内容发现 - [更多介绍](https://reeddaily.com/)
 
