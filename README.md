@@ -26,6 +26,10 @@
 
 ### 2026 年 7 月 23 号添加
 
+#### slamancn - [Github](https://github.com/slamancn)
+* :white_check_mark: [PDF2MD](https://apps.apple.com/cn/app/pdf2md/id6737130377)：将PDF转换为Markdown，完全离线，无需上传、无文件大小限制、智能图像文字识别、快速、私密、安全，设备端处理，支持通过AirDrop共享；鸿蒙版本[PDF2MD](https://appgallery.huawei.com/app/detail?id=cn.slaman.pdftools.hm&channelId=SHARE&source=appshare)
+
+
 #### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
 * :white_check_mark: [Invoice-Downloader](https://github.com/EthanYoQ/Invoice-Downloader)：发票报销神器，一键搞定发票报销。 连好邮箱之后，软件会一键开好发票，下载，转化成pdf，整理到分类文件夹。并且做好excel清单。
 * :white_check_mark: [whisper-input](https://github.com/EthanYoQ/whisper-input)：vibe coding和输入利器。windows语音输入法，你只负责口喷，输入法会整理成逻辑清晰的话术（类似prompt）。输出风格可选，源码公开自由可调。
